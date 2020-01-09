@@ -1,7 +1,7 @@
 # Project Title : Bulletshot 
 ### Batch NO : 16
 ### Mentor Name :Ms.V.KAMALA 
-### Github Link : 
+### Github Link : github.com/Angel-12314/bulletshot.py/blob/master/bulletshot.py
 ### Team Details :
 | S.no  | Name  | Roll Number  | Email Id  |
 |-------|-------|--------------|-----------|
